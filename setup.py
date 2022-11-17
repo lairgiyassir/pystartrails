@@ -29,7 +29,7 @@ setup(
     ],
     keywords=['python', 'star trails', 'astrophotography', 'photography', 'blending modes'],
     classifiers=[
-        "Development Status :: 1 - Planning",
+        "Development Status :: 4 - Beta",
         "Intended Audience :: Developers :: Astrophotographers :: Photographers",
         "Programming Language :: Python :: 3",
         "Operating System :: Unix",
