@@ -41,7 +41,7 @@ This example is structured structured in three parts:
 
 1. Prepare the folder of your night sky image sequence. This repository is actually the sequence_repository attribute of TrailsGenerator class. 
 
-![alt text](./examples/img_sequence.png "Image sequence repository")
+![alt text](https://raw.githubusercontent.com/lairgiyassir/pystartrails/main/examples/img_sequence.png?raw=true "Image sequence repository")
 
 2. Choose the generated image extension and where you want to save it (otherwise, it will be stored by default in the sequence repository).
 
@@ -72,7 +72,7 @@ plt.imshow(star_trail_img)
 plt.show()
 
 ```
-![alt text](./examples/generated_img.jpg "The generated image")
+![alt text](https://github.com/lairgiyassir/pystartrails/blob/main/examples/generated_img.jpg?raw=true "The generated image")
 
 
 
