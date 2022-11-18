@@ -72,7 +72,7 @@ plt.imshow(star_trail_img)
 plt.show()
 
 ```
-![alt text](https://github.com/lairgiyassir/pystartrails/blob/main/examples/generated_img.jpg?raw=true "The generated image")
+![alt text](https://raw.githubusercontent.com/lairgiyassir/pystartrails/main/examples/generated_img.jpg?raw=true "The generated image")
 
 
 
