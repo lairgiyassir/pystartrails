@@ -3,7 +3,7 @@ Photographers and astrophotographers can use this package to quickly and easily 
 
 The previous image-processing software I used was Adobe Photoshop, a powerful image-processing program that can be used for the generation of star trails. However, I experienced slow computer performance after uploading a star trail image sequence (more than 500 images) since my RAM became overloaded with images. I was forced to divide the 500 images into small batches. This process took a considerable amount of time. 
 
-Due to this, I have decided to develop a lightweight and fast program that does not require the installation of any external programs. I hope that this package will be useful for all astrophotographers and photographers worldwide :) 
+Due to this, I have decided to develop a lightweight and fast python package that does not require the installation of any external programs. I hope that this package will be useful for all astrophotographers and photographers worldwide :) 
 
 Developed by [Yassir LAIRGI](https://lairgiyassir.github.io/) ©2022. 
 # Installation
