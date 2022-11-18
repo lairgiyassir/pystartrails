@@ -13,7 +13,7 @@ LONG_DESCRIPTION = 'This package allows astrophotographers and photographers to 
 
 # Setting up
 setup(
-    name="PyStarTrails",
+    name="pystartrails",
     version=VERSION,
     author="Yassir LAIRGI",
     author_email="<yassirlairgi@gmail.com>",
@@ -30,7 +30,7 @@ setup(
     keywords=['python', 'star trails', 'astrophotography', 'photography', 'blending modes'],
     classifiers=[
         "Development Status :: 4 - Beta",
-        "Intended Audience :: Developers :: Astrophotographers :: Photographers",
+        "Intended Audience :: Developers",
         "Programming Language :: Python :: 3",
         "Operating System :: Unix",
         "Operating System :: MacOS :: MacOS X",
