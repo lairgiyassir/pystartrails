@@ -1,9 +1,6 @@
 import numpy as np
-import matplotlib.pyplot as plt 
 import cv2 as cv
 import glob
-import pathlib
-import os
 from tqdm import tqdm
 from ..tests import Tester
 
