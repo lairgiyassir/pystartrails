@@ -2,9 +2,9 @@
 
 ![alt text](/examples/logo.png "Image sequence repository")
 
-Photographers and astrophotographers can use this package to quickly and easily generate star-trail images from a sequence of images in order to create stunning images of the night sky.
+This package can be used by astrophotographers and photographers to create stunning images of the night sky by generating star trails from a sequence of images.
 
-The previous image-processing software I used was Adobe Photoshop, a powerful image-processing program that can be used for the generation of star trails. However, I experienced slow computer performance after uploading a star trail image sequence (more than 500 images) since my RAM became overloaded with images. I was forced to divide the 500 images into small batches. This process took a considerable amount of time. 
+The previous image-processing software I used was Adobe Photoshop, a powerful image-processing program that can be used for the generation of star trails. However, I experienced slow computer performance after uploading a star trail image sequence (more than 500 images) because my RAM became overloaded. I was forced to divide the 500 images into small batches and this process took a considerable amount of time. 
 
 Due to this, I have decided to develop a lightweight and fast python package that does not require the installation of any external programs. I hope that this package will be useful for all astrophotographers and photographers worldwide :) 
 
@@ -17,7 +17,7 @@ pip install pystartrails
 ```
 
 # Usage
-This package assumes that you have already a sequence of night sky images that you want to create a star-trail image based on. In order create your first star-trail image, specify : 
+The package assumes that you already have a sequence of night sky images from which you would like to create a star-trail image. In order create your first star-trail image, specify : 
 
 ``` python
 from pystartrails import TrailsGenerator
@@ -40,7 +40,7 @@ generate_trails() method returns array in the same format as the input format an
 
 # Example
 
-This example is structured structured in three parts:
+This example is structured in three parts:
 
 1. Prepare the folder of your night sky image sequence. This repository is actually the sequence_repository attribute of TrailsGenerator class. 
 
