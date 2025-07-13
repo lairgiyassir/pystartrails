@@ -1,1 +1,2 @@
 from .trailsgenerator import TrailsGenerator
+from .trailsgenerator import TrailsAndTimeLapseGenerator
