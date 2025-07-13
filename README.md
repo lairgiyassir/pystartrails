@@ -85,10 +85,7 @@ trails_generator.create_timelapse(
 
 **Output - Regular Time-lapse:**
 
-<video width="600" controls>
-  <source src="docs/regular_timelapse.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[📹 View Regular Time-lapse Video](docs/regular_timelapse.mp4)
 
 ### Blended Time-lapse (with star trails accumulation):
 
@@ -102,10 +99,7 @@ trails_generator.create_timelapse(
 
 **Output - Blended Time-lapse:**
 
-<video width="600" controls>
-  <source src="docs/blended_timelapse.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[📹 View Blended Time-lapse Video](docs/blended_timelapse.mp4)
 
 **The difference:**
 - **blended_timelapse=False**: Creates a regular time-lapse video showing each frame as-is
@@ -115,17 +109,11 @@ trails_generator.create_timelapse(
 
 **Regular Time-lapse Example:**
 
-<video width="600" controls>
-  <source src="docs/regular_timelapse.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[📹 View Regular Time-lapse Video](docs/regular_timelapse.mp4)
 
 **Blended Time-lapse Example (with accumulating star trails):**
 
-<video width="600" controls>
-  <source src="docs/blended_timelapse.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[📹 View Blended Time-lapse Video](docs/blended_timelapse.mp4)
 
 # Example
 
@@ -195,10 +183,7 @@ plt.show()
 
 Here's an example of a time-lapse video created using PyStarTrails:
 
-<video width="600" controls>
-  <source src="docs/example_of_timelapse.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[📹 View Example Time-lapse Video](docs/example_of_timelapse.mp4)
 
 # Dependencies
 The PyStarTrails package needs the following packages:
